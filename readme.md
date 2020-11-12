@@ -1,1 +1,0 @@
-Emon Devices (Cordova app)
